@@ -16,86 +16,86 @@ Open the documentation.html with any browser to access the documentation
 
 ## 1) UML Diagrams
 
-![uml1](assets/uml1.png)
+<img src="assets/uml1.png" width="50%" >
 
-![uml2](assets/uml2.png)
+<img src="assets/uml2.png" width="50%" >
 
 ## 2) GUI
 
-![output1](assets/output1.png)
+<img src="assets/output1.png" width="30%" >
 
-![output2](assets/output2.png)
+<img src="assets/output2.png" width="30%" >
 
-![output3](assets/output3.png)
+<img src="assets/output3.png" width="30%" >
 
-![output4](assets/output4.png)
+<img src="assets/output4.png" width="30%" >
 
-![output5](assets/output5.png)
+<img src="assets/output5.png" width="30%" >
 
-![output6](assets/output6.png)
+<img src="assets/output6.png" width="30%" >
 
-![output7](assets/output7.png)
+<img src="assets/output7.png" width="30%" >
 
-![output8](assets/output8.png)
+<img src="assets/output8.png" width="30%" >
 
-![output9](assets/output9.png)
+<img src="assets/output9.png" width="30%" >
 
-![output10](assets/output10.png)
+<img src="assets/output10.png" width="30%" >
 
-![output11](assets/output11.png)
+<img src="assets/output11.png" width="30%" >
 
-![output12](assets/output12.png)
+<img src="assets/output12.png" width="30%" >
 
-![output13](assets/output13.png)
+<img src="assets/output13.png" width="30%" >
 
-![output14](assets/output14.png)
+<img src="assets/output14.png" width="30%" >
 
 ## Code Snapshot
 
 ### 1) Inheritance
 
-![code1](assets/code1.png)
+<img src="assets/code1.png" width="40%" >
 
 ### 2) Polymorphism
 
-![code2](assets/code2.png)
+<img src="assets/code2.png" width="40%" >
 
-![code3](assets/code3.png)
+<img src="assets/code3.png" width="40%" >
 
-![code4](assets/code4.png)
+<img src="assets/code4.png" width="40%" >
 
-![code5](assets/code5.png)
+<img src="assets/code5.png" width="40%" >
 
-![code6](assets/code6.png)
+<img src="assets/code6.png" width="40%" >
 
 ### 3) Interface
 
-![code7](assets/code7.png)
+<img src="assets/code7.png" width="40%" >
 
 ### 4) Java Collection: List / Set / Map
 
-![code8](assets/code8.png)
+<img src="assets/code8.png" width="40%" >
 
-![code9](assets/code9.png)
+<img src="assets/code9.png" width="40%" >
 
-![code10](assets/code10.png)
+<img src="assets/code10.png" width="40%" >
 
-![code11](assets/code11.png)
+<img src="assets/code11.png" width="40%" >
 
 ### 5) Exception Handling
 
-![code12](assets/code12.png)
+<img src="assets/code12.png" width="40%" >
 
-![code13](assets/code13.png)
+<img src="assets/code13.png" width="40%" >
 
-![code14](assets/code14.png)
+<img src="assets/code14.png" width="40%" >
 
-![code15](assets/code15.png)
+<img src="assets/code15.png" width="40%" >
 
-![code16](assets/code16.png)
+<img src="assets/code16.png" width="40%" >
 
-![code17](assets/code17.png)
+<img src="assets/code17.png" width="40%" >
 
 ### 6) Connecting to database
 
-![code18](assets/code18.png)
+<img src="assets/code18.png" width="40%" >
