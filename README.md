@@ -1,5 +1,7 @@
 # OOP-Payroll-Management-System
 
+## This project is developed using java. The library involve jdbc for connecting to the MySQL Database and Swing for developing the GUI
+
 # Source Code (.java)
 The source code (.java) for our mini project payroll management system is
 located inside the src folder.
